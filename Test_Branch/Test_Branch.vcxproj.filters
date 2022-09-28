@@ -3,12 +3,17 @@
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="project\First.h" />
+
     <ClInclude Include="project\Third.h" />
+    <ClInclude Include="project\Second.h" />
+
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="project\First.cpp" />
     <ClCompile Include="main.cpp" />
+
     <ClCompile Include="project\Third.cpp" />
+    <ClCompile Include="project\Second.cpp" />
   </ItemGroup>
 </Project>
