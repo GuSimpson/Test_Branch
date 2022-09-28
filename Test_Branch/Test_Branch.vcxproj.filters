@@ -6,6 +6,7 @@
     <ClInclude Include="project\Third.h" />
     <ClInclude Include="project\Second.h" />
     <ClInclude Include="project\Fourth.h" />
+    <ClInclude Include="project\Fifth.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp" />
@@ -14,5 +15,6 @@
     <ClCompile Include="project\Third.cpp" />
     <ClCompile Include="project\Second.cpp" />
     <ClCompile Include="project\Fourth.cpp" />
+    <ClCompile Include="project\Fifth.cpp" />
   </ItemGroup>
 </Project>

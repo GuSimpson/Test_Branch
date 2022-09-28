@@ -143,6 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="project\Fifth.h" />
     <ClInclude Include="project\Fourth.h" />
     <ClInclude Include="project\First.h" />
     <ClInclude Include="project\Second.h" />
@@ -150,6 +151,7 @@
     <ClInclude Include="project\Third.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="project\Fifth.cpp" />
     <ClCompile Include="project\Fourth.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="project\First.cpp" />
