@@ -13,4 +13,3 @@ public:
 	virtual void End() override;
 private:
 };
-

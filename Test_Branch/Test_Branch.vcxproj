@@ -148,6 +148,7 @@
     <ClInclude Include="project\Second.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="project\Third.h" />
+    <ClInclude Include="templ.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="project\Fourth.cpp" />
@@ -159,6 +160,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="project\Third.cpp" />
+    <ClCompile Include="templ.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
