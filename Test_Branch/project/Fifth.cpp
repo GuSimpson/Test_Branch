@@ -1,7 +1,2 @@
 #include "stdafx.h"
-
-
-int main()
-{
-	
-}
+#include "Fifth.h"
