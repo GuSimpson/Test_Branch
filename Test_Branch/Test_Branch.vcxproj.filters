@@ -1,28 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClInclude Include="stdafx.h" />
-    <ClInclude Include="project\First.h" />
-    <ClInclude Include="project\Third.h" />
-    <ClInclude Include="project\Second.h" />
-    <ClInclude Include="project\Fourth.h" />
-<<<<<<< HEAD
-    <ClInclude Include="templ.h" />
-=======
-    <ClInclude Include="project\Fifth.h" />
->>>>>>> feature/fourth
+    <ClCompile Include="project\Fifth.cpp" />
+    <ClCompile Include="project\Fourth.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="project\First.cpp" />
+    <ClCompile Include="project\Second.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="project\Third.cpp" />
+    <ClCompile Include="templ.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp" />
-    <ClCompile Include="project\First.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="project\Third.cpp" />
-    <ClCompile Include="project\Second.cpp" />
-    <ClCompile Include="project\Fourth.cpp" />
-<<<<<<< HEAD
-    <ClCompile Include="templ.cpp" />
-=======
-    <ClCompile Include="project\Fifth.cpp" />
->>>>>>> feature/fourth
+    <ClInclude Include="project\Fifth.h" />
+    <ClInclude Include="project\Fourth.h" />
+    <ClInclude Include="project\First.h" />
+    <ClInclude Include="project\Second.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="project\Third.h" />
+    <ClInclude Include="templ.h" />
   </ItemGroup>
 </Project>

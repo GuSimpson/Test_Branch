@@ -1,0 +1,5 @@
+﻿  Lib_Test.cpp
+C:\Users\user\Desktop\Git\Test_Branch\Test_Branch\Lib_Test.cpp(4,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Lib_Test.pch': No such file or directory
+  pch.cpp
+C:\Users\user\Desktop\Git\Test_Branch\Test_Branch\pch.cpp(3,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Lib_Test.pch': No such file or directory
+  코드를 생성하고 있습니다...
